@@ -290,7 +290,7 @@ BsmtCond: Evaluates the general condition of the basement
        TA	Typical - slight dampness allowed
        Fa	Fair - dampness or some cracking or settling
        Po	Poor - Severe cracking, settling, or wetness
-       NA	No Basement
+       NA	No basement
 	
 BsmtExposure: Refers to walkout or garden level walls
 
@@ -382,7 +382,7 @@ KitchenQual: Kitchen quality
 
        Ex	Excellent
        Gd	Good
-       TA	Typical/Average
+       TA	Typical/average
        Fa	Fair
        Po	Poor
        	
